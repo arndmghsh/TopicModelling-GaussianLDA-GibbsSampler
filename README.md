@@ -1,6 +1,10 @@
 # TopicModelling-GaussainLDA-GibbsSampler
-A collapsed Gibbs sampler for Gaussian Latent Dirichlet Allocation (LDA) based topic modelling. It's a re-implementation of the work Rajarshi Das, Manzil Zaheer, Chris Dyer, "Gaussian LDA for Topic Models with Word Embeddings".
+A collapsed Gibbs sampler for Gaussian Latent Dirichlet Allocation (LDA) based Topic Modelling. It's a re-implementation of the work http://rajarshd.github.io/papers/acl2015.pdf
+```
+Rajarshi Das, Manzil Zaheer, Chris Dyer, "Gaussian LDA for Topic Models with Word Embeddings", 2015.
 
+```
+```
 @inproceedings{das-etal-2015-gaussian,
     title = "{G}aussian {LDA} for Topic Models with Word Embeddings",
     author = "Das, Rajarshi  and
@@ -15,3 +19,4 @@ A collapsed Gibbs sampler for Gaussian Latent Dirichlet Allocation (LDA) based t
     doi = "10.3115/v1/P15-1077",
     pages = "795--804",
 }
+```
